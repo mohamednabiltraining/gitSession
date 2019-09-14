@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">gitSessionCode</string>
+    <string name="First">hiiii</string>
+    <string name="second">git new</string>
 </resources>
